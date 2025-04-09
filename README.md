@@ -44,10 +44,6 @@ Feel free to contribute to this project by:
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
----
 
-> **Disclaimer**: This project is for educational purposes only. Use in production environments requires additional security measures and testing.
-
----
 
 *Made with ❤️ by Sujal-Thakkar*
